@@ -1,5 +1,9 @@
 # Practice NodeJs and Express 2025
 
-This repo is to practice NodeJS and express
+## An exercise to get different types of content based on the Accept header value
 
-All exercises are there in the other branches here
+You can get response as:
+
+- JSON
+- XML
+- CSV
