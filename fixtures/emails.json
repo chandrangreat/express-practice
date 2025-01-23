@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "from": "Jack",
+    "to": "Jill",
+    "subject": "Hello Jill!",
+    "body": "Hi Jill, nice to meet you."
+  },
+  {
+    "id": "2",
+    "from": "Jill",
+    "to": "Jack",
+    "subject": "RE: Hello Jill!",
+    "body": "Hi Jack, I am fine."
+  }
+]

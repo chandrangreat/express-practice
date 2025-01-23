@@ -11,8 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "csv": "^6.3.11",
-    "express": "^4.21.2",
-    "xmlbuilder": "^15.1.1"
+    "express": "^4.21.2"
   }
 }
